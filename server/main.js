@@ -16,16 +16,6 @@ Meteor.methods({
         //     console.log("data length "+ data.length);
         //     return data.data;
         // });
-    },
-    getMatches: function() {
-        var url = "http://api.football-data.org/alpha/teams/73/fixtures";
-        try {
-            var fixtures = HTTP.get(url).data.fixtures;
-            console.log("fixtures = "+fixtures);
-            return fixtures;
-        } catch (e) {
-            return [];
-        }
     }
 });
 
