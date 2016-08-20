@@ -12,6 +12,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tojs.js" />
         <item url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/promise-tests.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/session/1.1.6/web.browser/session.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/server.js" />
         <item url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/client.js" />
@@ -118,6 +119,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/base64/1.0.9/web.browser/base64.js" />
         <item url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/random_tests.js" />
         <item url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/random.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict-tests.js" />
         <item url="file://$USER_HOME$/.meteor/packages/binary-heap/1.0.9/web.browser/min-heap.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.7.5/web.browser/modules-runtime.js" />
         <item url="file://$USER_HOME$/.meteor/packages/binary-heap/1.0.9/web.browser/max-heap.js" />
@@ -125,7 +127,9 @@
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/template.js" />
         <item url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.7.5/web.browser/.npm/package/node_modules/install/install.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/dombackend.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/view.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/migration.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/backcompat.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/events.js" />
         <item url="file://$USER_HOME$/.meteor/packages/reload/1.1.10/web.browser/deprecated.js" />
@@ -145,6 +149,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tojs.js" />
       <root url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/promise-tests.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/session/1.1.6/web.browser/session.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/server.js" />
       <root url="file://$USER_HOME$/.meteor/packages/promise/0.8.3/web.browser/client.js" />
@@ -251,6 +256,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/base64/1.0.9/web.browser/base64.js" />
       <root url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/random_tests.js" />
       <root url="file://$USER_HOME$/.meteor/packages/random/1.0.10/web.browser/random.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict-tests.js" />
       <root url="file://$USER_HOME$/.meteor/packages/binary-heap/1.0.9/web.browser/min-heap.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.7.5/web.browser/modules-runtime.js" />
       <root url="file://$USER_HOME$/.meteor/packages/binary-heap/1.0.9/web.browser/max-heap.js" />
@@ -258,7 +264,9 @@
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/template.js" />
       <root url="file://$USER_HOME$/.meteor/packages/modules-runtime/0.7.5/web.browser/.npm/package/node_modules/install/install.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/dombackend.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/reactive-dict.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/view.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/reactive-dict/1.1.8/web.browser/migration.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/backcompat.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/events.js" />
       <root url="file://$USER_HOME$/.meteor/packages/reload/1.1.10/web.browser/deprecated.js" />

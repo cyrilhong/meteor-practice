@@ -5,14 +5,22 @@
 <body>
   <h1>Welcome to Meteor!</h1>
   {{> hello}}
-  {{> info}}
+  <!--{{> info}}-->
 </body>
 
 <template name="hello">
-  <button>Click Me</button>
-  <p>You've pressed the button {{counter}} times.</p>
-    {{#each ren}}
-        {{this}}
+  <!--<button>Click Me</button>-->
+  <!--<p>You've pressed the button {{counter}} times.</p>-->
+    {{#each passData}}
+        <ul>
+            {{groupId}}
+            <li>
+                {{#each semantic_types}}
+                    <li>{{description}}</li>
+                    <li>{{typeId}}</li>
+                {{/each}}
+            </li>
+        </ul>
     {{/each}}
 </template>
 
